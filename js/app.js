@@ -21,12 +21,14 @@
 // }
 		
 
-for (let i = 1; i < 101; i ++) {
-	console.log(i);
+// for (let i = 1; i < 101; i ++) {console.log(i); if((i % 3 == 0) && (i % 5 == 0)) {console.log("Fizz"); } }
 
-if((i % 3 == 0) && (i % 5 == 0)) {
-	console.log("Fizz");
-}
-}
+// const thom = ["Thom", 1000, "Christchurch"]
+// const karolin = ["Karolin", 16, "New York"]
+// const kristyn = ["Kristyn", 5, "Pittsburgh"]
+// const matt = ["Matt H", 186, "Philadelphia"]
 
+// thom.pop();
+// thom.push("Gameboy");
+// {console.log(thom);}
 
