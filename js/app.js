@@ -32,7 +32,15 @@
 // thom.push("Gameboy");
 // {console.log(thom);}
 
-let ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
-for (let i = 1; i < ninjaTurtles.length; i++) {
-	console.log(ninjaTurtles);
+// let ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+// for (let i = 1; i < ninjaTurtles.length; i++) {
+// 	console.log(ninjaTurtles);
+// }
+
+for (let i = 1; i < 1000; i++) {
+	if((i % 3 == 0) || (i % 5 == 0)) {
+		let total = (arr[i]) + (arr[i]);
+	}
+	{console.log(total);
+	}
 }
