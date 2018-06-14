@@ -32,3 +32,7 @@
 // thom.push("Gameboy");
 // {console.log(thom);}
 
+let ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+for (let i = 1; i < ninjaTurtles.length; i++) {
+	console.log(ninjaTurtles);
+}
